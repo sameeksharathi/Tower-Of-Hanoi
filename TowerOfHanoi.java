@@ -9,7 +9,4 @@ public class TowerOfHanoi {
 
         }
     }
-    public static void main(String[] args) {
-        m1(3,"Source","Auxilliary","Destination");
-    }
 }
